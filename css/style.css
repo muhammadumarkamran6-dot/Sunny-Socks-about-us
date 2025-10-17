@@ -106,7 +106,7 @@ body{
   width: 85%;
 }
 .d-flex{
-  display: jus;
+  display: flex;
 }
 .jce{
   justify-content: end;
