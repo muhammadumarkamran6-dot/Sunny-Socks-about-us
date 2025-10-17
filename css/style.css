@@ -5,7 +5,6 @@
   src:
   url("../font/Nexa-ExtraLight.ttf");
 }
-
 /* Bold */
 @font-face {
   font-family: "myfont2";
@@ -107,7 +106,7 @@ body{
   width: 85%;
 }
 .d-flex{
-  display: flex;
+  display: jus;
 }
 .jce{
   justify-content: end;
