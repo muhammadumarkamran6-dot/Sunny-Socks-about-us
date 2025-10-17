@@ -1,10 +1,10 @@
-#Project Name: Sunny Website
+#Project Name: Sunny Socks About US
 
 This is a responsive frontend website built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 
 font/ → Custom fonts
@@ -15,14 +15,14 @@ dark-about.html → About page (dark version)
 
 ---
 
-## 🚀 Features
+## Features
 - Responsive layout for all devices  
 - Dark and light themes  
 - Organized folder structure  
 
 ---
 
-## 🧠 How to Use
+## How to Use
 1. Download or clone this repository.  
 2. Open `index.html` in your browser.  
 3. Customize content as per your needs.  
@@ -30,13 +30,7 @@ dark-about.html → About page (dark version)
 ---
 
 ---
-## 🧰 Technologies Used
+## Technologies Used
 - HTML
 - CSS  
-- JavaScript  
-
----
-
-## 📜 Author
-Developed by **[Your Name]**  
-For contact or collaboration: [your-email@example.com]
+- JavaScript
