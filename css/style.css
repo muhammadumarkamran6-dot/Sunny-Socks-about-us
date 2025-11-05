@@ -6,7 +6,7 @@
   url("../font/Nexa-ExtraLight.ttf");
 }
 /* Bold */
-@font-face {
+@font-face 
   font-family: "myfont2";
   src:
   url("../font/Nexa-Heavy.ttf");
